@@ -47,4 +47,4 @@ Comme dit précédemment, il faut mettre en avant la partie conception de votre 
 Nous avons été nombreux à négliger la partie conception notamment les wireframes. 
 Il faut absolument que celles-ci soient réalisées avant le début du développement. Pour la réalisation des maquettes, votre capacité à transposer les maquettes en un site est primordial, et il faut absolument que votre site soit entièrement conforme aux maquettes que vous créerez.
 
-Le jury est susceptible de vous poser des questions techniques, particulièrement sur les points plus hauts, mais aussi sur le SQL. Il faut donc réviser tout ce qui est requêtes et relations.
+Le jury est susceptible de vous poser des questions techniques, notamment sur les points plus hauts, mais aussi sur le SQL. Il faut donc réviser tout ce qui est requêtes et relations.
