@@ -23,17 +23,17 @@ Ce que j'ai pu remarqué déjà, c'est l'importance qu'ils accordent à la parti
 
 J'ai donc noté les parties importantes à mon sens à absolument comprendre et présenter, je vous invite donc à vous renseigner sur celles-ci :
 
-- Pouvoir justifier la partie SEO de votre site (quelles balises et pourquoi (meta, title..))
+- Pouvoir justifier la partie SEO de votre site (quelles balises et pourquoi (meta, title..)),
 
 - Bonne disposition des éléments (ligne de flottaison, Call To Action),
 
 - Charte graphique, typographie,
 
-- Élaboration des wireframes & maquettes 
+- Élaboration des wireframes & maquettes,
 
-- Formuler clairement les besoins du client
+- Formuler clairement les besoins du client,
 
-- Parler de la partie performance de votre site (Extension lighthouse) et de son optimisation (Poids des images, extensions à adopter)
+- Parler de la partie performance de votre site (Extension lighthouse) et de son optimisation (Poids des images, extensions à adopter),
 
 - Accessibilité, disposition des éléments sur la page,
 
