@@ -23,7 +23,9 @@ Ce que j'ai pu remarqué déjà, c'est l'importance qu'ils accordent à la parti
 
 J'ai donc noté les parties importantes à mon sens à absolument comprendre et présenter, je vous invite donc à vous renseigner sur celles-ci :
 
-- Pouvoir justifier la partie SEO de votre site (Quelles balises et pourquoi (meta, title..), ligne de flottaison, Call To Action),
+- Pouvoir justifier la partie SEO de votre site (quelles balises et pourquoi (meta, title..))
+
+- Bonne disposition des éléments (ligne de flottaison, Call To Action),
 
 - Charte graphique, typographie,
 
