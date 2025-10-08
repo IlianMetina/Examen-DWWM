@@ -1,7 +1,7 @@
 # Examen DWWM
 
 Je crée ce repo suite à mon passage du titre DWWM, et j'aimerais partager au mieux mon expérience et celles de mes collègues pour aider ceux qui à l'avenir passeront également cet examen.
-Le but de ce repo est donc de donner un maximum d'indications et de conseils, qui je pense vous permettront de réussir le passage du titre en étant confiant.
+Le but de ce repo est donc de donner un maximum d'indications et de conseils, qui je pense vous permettront de réussir le passage du titre en toute confiance.
 
 ## Déroulé de l'examen
 
